@@ -66,12 +66,13 @@ Generate secure passwords by selecting length, including numbers, and special ch
 - React
 - Vite (for development server & build)
 - Tailwind CSS (for styling, optional if you customize CSS)
-
+- 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
