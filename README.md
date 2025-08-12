@@ -1,12 +1,85 @@
-# React + Vite
+# React Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and customizable password generator built with React.  
+Generate secure passwords by selecting length, including numbers, and special characters. Easily copy the generated password to your clipboard.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Adjustable password length (6 to 100 characters)
+- Option to include numbers
+- Option to include special characters
+- Copy generated password with one click
+- Auto-generates password on option changes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Demo
+
+<p align="center">
+  <img src="./screenshot.png" alt="Password Generator Screenshot" width="500" height="450px" />
+</p>
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+    git clone https://github.com/yourusername/react-password-generator.git
+
+2. Navigate into the project directory:
+
+    cd react-password-generator
+
+3. Install dependencies:
+
+    npm install
+
+4. Run the development server:
+
+    npm run dev
+
+5. Open your browser at `http://localhost:3000` (or the port shown in the terminal).
+
+---
+
+## Usage
+
+- Use the slider to set the desired password length.
+- Toggle the checkboxes to include numbers and/or special characters.
+- Click the "copy" button to copy the generated password to your clipboard.
+
+---
+
+## Code Overview
+
+- The password is generated using a customizable character set.
+- Password regenerates automatically when options change.
+- Uses React hooks: `useState`, `useEffect`, `useCallback`, and `useRef`.
+
+---
+
+## Dependencies
+
+- React
+- Vite (for development server & build)
+- Tailwind CSS (for styling, optional if you customize CSS)
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Author
+
+<div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; max-width: 300px;">
+  <p><strong><a href="https://github.com/yourusername">Your Name</a></strong></p>
+</div>
+
+
+---
