@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 <div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; max-width: 300px;">
-  <p><strong><a href="https://github.com/yourusername">Your Name</a></strong></p>
+  <p><strong><a href="https://github.com/anuj-singal">Anuj Singal</a></strong></p>
 </div>
 
 
