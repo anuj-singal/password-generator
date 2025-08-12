@@ -77,9 +77,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-<div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; max-width: 300px;">
-  <p><strong><a href="https://github.com/anuj-singal">Anuj Singal</a></strong></p>
-</div>
-
+[![Anuj Singal](https://img.shields.io/badge/Anuj%20Singal-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuj-singal)
 
 ---
