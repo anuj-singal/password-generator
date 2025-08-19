@@ -27,11 +27,11 @@ Generate secure passwords by selecting length, including numbers, and special ch
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/react-password-generator.git
+    git clone https://github.com/anuj-singal/password-generator.git
     ```
 2. Navigate into the project directory:
     ```bash
-    cd react-password-generator
+    cd password-generator
     ```
 3. Install dependencies:
     ```bash
